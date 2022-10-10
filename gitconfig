@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = triqui.hamza @gmail.com
+	name = Hamza Triqui
